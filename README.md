@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **TomBrady71/TomBrady71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱  I’m currently learning Statistics, C Programming Language, Cloud Computing, AWS, React Native, Node.js and other relevant fullstack frameworks
 -⚡ 2021 Hackathons I have competed in: Bitcamp, Hack PSU, Hack UMBC
 - 📫 How to reach me: johnkeeling13@gmail.com
--->
+
